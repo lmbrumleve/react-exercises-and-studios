@@ -1,17 +1,17 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+     "name": "Fresh Homemade Salsa",
+     "author": "Jaclyn",
+     "description": "The best party food around and a must-have snack!",
+     "website": "https://www.cookingclassy.com/fresh-homemade-salsa/",
+     "recipeImage": "https://www.cookingclassy.com/wp-content/uploads/2018/07/salsa-17-788x1182.jpg",
+     "authorImage": "https://www.cookingclassy.com/wp-content/uploads/2019/08/jaclyn-bell@2x-231x300.jpg",
      "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
+      "1 1/4 lbs ripe Roma tomatoes", 
+      "1 (14.5 oz) can petite diced tomatoes", 
+      "2 green onions", 
+      "1/3 cup chopped red onion", 
+      "1 jalapeno pepper, seeded and roughly chopped"
      ]
    }
  ]
